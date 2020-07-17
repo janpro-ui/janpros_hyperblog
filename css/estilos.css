@@ -38,6 +38,11 @@ body{
     background-color: white;
     padding: 1em;
 }
+#post #imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 #footer{
     background: #777;
     color: white;
