@@ -1,4 +1,4 @@
-#👺**Janpro´s_Hyperblog**👹
+# 👺**Janpro´s_Hyperblog**👹
 
 >Repositorio para el curso de Git y GitHub de Platzi.
 
