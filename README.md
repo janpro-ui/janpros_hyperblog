@@ -7,8 +7,8 @@
 <img src="https://drive.google.com/uc?id=1dTEiTS8voUuFPwKAZsdJLlF_Twd39kSx"/>
 </p>
 
+------------
 
-[========]
 
 
 #### Contacto
@@ -17,6 +17,8 @@
 
 <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/> [**_janpro_**](https://www.instagram.com/_janpro_/ "_janpro_")
 
-[========]
+------------
+
+
 
 Curso en [Platzi](http://platzi.com "Platzi") de [Git y GitHub](https://platzi.com/clases/git-github/ "Git y GitHub").
