@@ -25,3 +25,4 @@ Curso en [Platzi](http://platzi.com "Platzi") de [Git y GitHub](https://platzi.c
 
 Creado por Andrés Romero.
 Incluye ejemplos en Windows, Linux y Mac.
+Disponible para todas las edades.
